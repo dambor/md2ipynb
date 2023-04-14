@@ -1,6 +1,6 @@
-## Summary
-This Python script can be used to convert a Markdown file to a Jupyter Notebook file. To use it, simply run the `convert.py` script from the command line, passing in the path to your input Markdown file and the path where you want to save your output Jupyter Notebook file. If you have any issues or questions, feel free to reach out to the script author or open an issue on the GitHub repository.
+# Markdown2Ipynb
 
+Here's a Python script that converts a Markdown file to a Jupyter Notebook file, along with full documentation on how to run it.
 
 ## Requirements
 * Python 3.6 or higher* `pypandoc` and `nbformat` librariesYou can install these libraries using pip:
@@ -21,6 +21,7 @@ For example, if you have a Markdown file named `my-markdown-file.md` in the same
 python convert.py my-markdown-file.md my-notebook.ipynb
 
 ```
-
+## Summary
+This Python script can be used to convert a Markdown file to a Jupyter Notebook file. To use it, simply run the `convert.py` script from the command line, passing in the path to your input Markdown file and the path where you want to save your output Jupyter Notebook file. If you have any issues or questions, feel free to reach out to the script author or open an issue on the GitHub repository.
 
  --------
